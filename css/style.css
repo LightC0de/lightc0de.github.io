@@ -1005,6 +1005,7 @@ img.svg{
 .arlo_tm_services_wrap .list_wrap ul li .inner{
     width: 100%;
     height: auto;
+    min-height: 273px;
     clear: both;
     float: left;
     position: relative;
