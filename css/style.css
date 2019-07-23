@@ -160,7 +160,7 @@ img.svg{
 }
 .arlo_tm_leftpart_wrap.hide{left: -300px;}
 .arlo_tm_leftpart_wrap.opened{left: -300px;}
-.arlo_tm_leftpart_wrap .logo_wrap img{width: 75%;}
+.arlo_tm_leftpart_wrap .logo_wrap img{width: 60%;}
 .arlo_tm_leftpart_wrap .logo_wrap{
     background-color: #041230;
     padding: 50px 20px;
